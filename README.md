@@ -1,2 +1,1 @@
-# Precourse-Henry
-primer repositorio prueba
+Este es un ejemplo de como crear un repositorio y como clonarlo
